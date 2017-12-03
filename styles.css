@@ -38,12 +38,65 @@
   color: #eb6751;
 }
 
+.poppy-bg {
+  background-color: rgba(235, 103, 81, 0.92);
+}
+
+.b--poppy {
+  border-color: #eb6751;
+}
+
+.rose-text {
+  color: #fc9f8a;
+}
+
+.rose-bg {
+  background-color: #fc9f8a;
+}
+
+.rose-circle {
+  background-color: #fc9f8a;
+  border-radius: 200px;
+  width: 40%;
+  height: 100%;
+}
+
+.lemon-bg {
+  background-color: #f4ec51;
+}
+
+.lemon-circle {
+  background-color: #f4ec51;
+  border-radius: 200px;
+  width: 40%;
+  height: 100%;
+}
+
+.creamsicle-txt {
+  color: #FCC48A;
+}
+
 .creamsicle-bg {
   background-color: rgba(255, 190, 133, 0.92)
 }
 
+.b--creamsicle {
+  border-color: #FCC48A;
+}
+
+.creamsicle-btn-bg {
+  background-color: #FCC48A;
+}
+
 .seafoam-bg {
   background-color: rgba(177, 227, 227, 0.92)
+}
+
+.pacific-circle {
+  background-color: #54b7b4;
+  border-radius: 200px;
+  width: 40%;
+  height: 100%;
 }
 
 .bg-black-02 {
@@ -63,4 +116,6 @@
   width: 100%;
 }
 
-
+.aspect-ratio--x {
+  padding-bottom: 40%;
+}
